@@ -1,6 +1,6 @@
 import discord
 import random
-TOKEN = "NzcxNjg2MDYwMjY2NjE4OTAw.X5vupg.uNU1dpbJT-i_MooMpEfhUBmPimw";
+TOKEN = "";
 
 client = discord.Client()
 
